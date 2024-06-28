@@ -1,0 +1,51 @@
+.keep-nomad-post-list {
+    list-style: none;
+	text-decoration:none;
+    padding: 0;
+}
+
+.keep-nomad-post-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px 0;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.keep-nomad-post-item:hover {
+    background-color: #f0f0f0;
+    text-decoration: underline;
+}
+
+.keep-nomad-footer {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+}
+
+.keep-nomad-post-content {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px 0;
+}
+
+#keep-nomad-back {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #0073aa;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#keep-nomad-back:hover {
+    background-color: #005177;
+}
